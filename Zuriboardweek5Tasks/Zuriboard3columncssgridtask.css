@@ -1,0 +1,82 @@
+@media screen {
+    background-image: C:\Users\user\OneDrive\Desktop\Practice\Assignments\Zuriboardweek5Tasks\My image.png.jpg;
+}
+
+body {
+    box-sizing: border-box;
+      background-color: rgb(232, 240, 247);
+      place-content: center;
+      display: grid;
+    height: 500vh;
+  }
+  
+  .boxes {
+      padding-top: 80px;
+      display: grid;
+      justify-content: center;
+      flex-direction: column;
+  }
+  
+  .box1 {
+      height: 500px;
+      width: 300px;  
+      padding: 50px 50px;
+      border-radius: 50px;
+      background-color: #7e0202;
+      color: white
+  }
+  
+  .box2 {
+      height: 500px;
+      width: 300px;
+      padding: 50px 50px;
+      border-radius: 50px;
+      background-color: white;
+      color: black
+  }
+  
+  .box3 {
+      height: 500px;
+      width: 300px;
+      padding: 50px 50px;
+      border-radius: 50px;
+      background-color: #7e0202;
+      color: white
+  }
+  
+  button {
+      item-align: right;
+      padding: 15px 30px;
+      border-radius: 30px;
+      font-weight: bolder;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-style: unset;
+      font-size: x-small;
+      background-color: rgb(230, 224, 224)
+  
+  }
+  
+  button:hover {
+      color: rgb(147, 10, 76);
+      background-color: rgb(38, 18, 18);
+  }
+  
+  .images {
+    padding: 5px;
+  }
+  
+  p {
+      color: rgb(185, 191, 237);
+      text-align: center;
+      font-weight: bolder;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: ;
+    font-weight: 700;
+  }
+  
+  h1{
+      color:  rgb(185, 191, 237);
+      text-align: center;
+      font-weight: bolder;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }

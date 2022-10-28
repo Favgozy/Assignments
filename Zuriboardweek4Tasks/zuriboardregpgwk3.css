@@ -1,0 +1,38 @@
+body{
+color: rgb(203, 208, 235);
+background:border-box center rgb(105, 17, 17);
+border: 10px solid white;
+border-radius: 200px;
+text-align: center;
+margin: 100px;
+}
+
+.div1, .div3{
+    padding-right: 300px; 
+
+}
+
+.div2{
+    background-color: rgb(12, 26, 31);
+    border-radius: 200px;
+    padding-right: 300px; 
+}
+
+a:link,a:visited{
+    color: rgb(79, 7, 235);
+}
+
+a:hover,a:active{
+    color: rgb(173, 32, 135);
+}
+
+figure{
+    background:border-box center, rgb(243, 245, 246);
+    border: 10px solid rgb(12, 130, 63);
+    border-radius: 200px;
+    margin: 100px;    
+}
+figcaption{
+    color: rgb(113, 3, 3);
+    font-weight: bolder;
+}

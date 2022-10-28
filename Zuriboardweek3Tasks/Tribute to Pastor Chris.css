@@ -1,0 +1,39 @@
+h1 span {
+    color: blue;
+  }
+  p {
+    line-height: 120%;
+  }
+  .textcont {
+    width: 30%;
+    text-align: left;
+    font-family: cursive;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  img {
+   height: 200px; 
+    width: 200px;  
+  }
+  .footer {
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    height: 30px;
+    padding-bottom: 40px;
+    font-family: Verdana
+  a {
+    text-decoration: none;
+  }
+  .main {
+    min-width: 500px;
+  }
+  .blockit {
+    color: black;
+    background-color: #d8d6ee;
+    margin: auto;
+    padding: 5px;
+  }
+  li
+    line-height: 170%
+  }
